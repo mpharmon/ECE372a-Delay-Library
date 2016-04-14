@@ -13,8 +13,8 @@
  *          Ali Hassan (Quality Control)
  */
 
-#ifndef DELAY_H
-#define	DELAY_H
+#ifndef DELAY_H_
+#define	DELAY_H_
 
 //Delay function (in microseconds)
 void delayUs(unsigned int delay);
@@ -22,5 +22,5 @@ void delayUs(unsigned int delay);
 //Delay function (in Miliseconds)
 void delayMs(unsigned int delay);
 
-#endif	/* DELAY_H */
+#endif	// DELAY_H_
 
